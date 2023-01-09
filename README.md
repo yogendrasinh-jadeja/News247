@@ -17,7 +17,21 @@ newsapi
 https://newsapi.org/
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+All news
+
+![1](https://user-images.githubusercontent.com/121381292/211287964-9e68aab6-3992-4041-a331-7d044f19c4fe.png)
+
+Sports news
+
+![2_sports](https://user-images.githubusercontent.com/121381292/211287983-68ee5d3b-0927-45be-87f5-a92897b77601.png)
+
+Entertainment news
+
+![3_entr](https://user-images.githubusercontent.com/121381292/211288018-ef4197db-a614-4645-acc0-05f727fe866e.png)
+
+Technology news
+
+![4_tech](https://user-images.githubusercontent.com/121381292/211288054-34e949cb-4544-405d-9706-f7783aaf9339.png)
 
 
 ## Run Locally
